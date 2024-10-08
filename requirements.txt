@@ -1,0 +1,6 @@
+feedparser==6.0.10
+SQLAlchemy==1.4.46
+psycopg2-binary==2.9.5
+celery==5.2.7
+nltk==3.8.1
+redis==4.5.4
